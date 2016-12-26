@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FN</title>
+    <link>https://liesbethvanaerschot.github.io/FN/categories/blocks/index.xml</link>
+    <description>Recent content on FN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://liesbethvanaerschot.github.io/FN/categories/blocks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bodycopy</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/bodycopy/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/bodycopy/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;p class=&#34;&#34;&gt;
+        Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+    &lt;/p&gt;
+
+    &lt;h4&gt;Text white&lt;/h4&gt;
+    &lt;p class=&#34;background--pink text--white&#34;&gt;
+        Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+    &lt;/p&gt;
+
+    &lt;h4&gt;Two column text&lt;/h4&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col-md-5&#34;&gt;
+                &lt;p class=&#34;&#34;&gt;
+                    Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+                &lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;col-md-offset-2 col-md-5&#34;&gt;
+                &lt;p class=&#34;&#34;&gt;
+                    Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/buttons/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/buttons/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;h4&gt;Basic buttons&lt;/h4&gt;
+    &lt;button class=&#34;btn&#34;&gt;basic button&lt;/button&gt;
+    &lt;button class=&#34;btn&#34; disabled=&#34;disabled&#34;&gt;basic button disabled&lt;/button&gt;
+    &lt;br&gt;&lt;br&gt;
+    &lt;h4&gt;Primary button&lt;/h4&gt;
+    &lt;button class=&#34;btn btn--primary&#34;&gt;primary button&lt;/button&gt;
+    &lt;button class=&#34;btn btn--primary&#34; disabled=&#34;disabled&#34;&gt;primary button disabled&lt;/button&gt;
+    &lt;h4&gt;Secondary button&lt;/h4&gt;
+    &lt;button class=&#34;btn btn--secondary&#34;&gt;secondary button&lt;/button&gt;
+    &lt;button class=&#34;btn btn--secondary&#34; disabled=&#34;disabled&#34;&gt;secondary button disabled&lt;/button&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Headings</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/headings/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/headings/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;h1&gt;H1 - Fukushima: de feiten&lt;/h1&gt;
+    &lt;h2&gt;H2 - Fukushima: de feiten&lt;/h2&gt;
+    &lt;h3&gt;H3 - Fukushima: de feiten&lt;/h3&gt;
+    &lt;h4&gt;H4 - Fukushima: de feiten&lt;/h4&gt;
+
+    &lt;h2 class=&#34;text--blue&#34;&gt;H2 with text color blue&lt;/h2&gt;
+    &lt;h2 class=&#34;text--pink&#34;&gt;H2 with text color pink&lt;/h2&gt;
+
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/images/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/images/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;h4&gt;Image in two column layout&lt;/h4&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col-md-5&#34;&gt;
+                &lt;img src=&#34;../img/koelsystemen-9de5a6f993.svg&#34; alt=&#34;&#34;&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;col-md-offset-2 col-md-5&#34;&gt;
+                &lt;img src=&#34;../img/koelsystemen-9de5a6f993.svg&#34; alt=&#34;&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;h4&gt;Full width background image&lt;/h4&gt;
+    &lt;div class=&#34;full-width-bg-image bg-position--center-top&#34; style=&#34;background-image: url(../img/hero-header-bf7eb1f243.jpg); height: 50rem;&#34;&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intro text</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/intro_text/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/intro_text/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;p class=&#34;text--intro&#34;&gt;
+        Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+    &lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/links/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/links/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;h4&gt;Inline text link&lt;/h4&gt;
+    &lt;p class=&#34;&#34;&gt;
+        Veiligheid is de absolute prioriteit van de &lt;a href=&#34;&#34;&gt;nucleaire sector&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lists</title>
+      <link>https://liesbethvanaerschot.github.io/FN/blocks/basic_lists/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/blocks/basic_lists/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Er werd bij geen enkele werknemer stralingsziekte vastgesteld.&lt;/li&gt;
+                &lt;li&gt;Er werd bij geen enkele werknemer stralingsziekte vastgesteld.&lt;/li&gt;
+                &lt;li&gt;Er werd bij geen enkele werknemer stralingsziekte vastgesteld.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

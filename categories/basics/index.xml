@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FN</title>
+    <link>https://liesbethvanaerschot.github.io/FN/categories/basics/index.xml</link>
+    <description>Recent content on FN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://liesbethvanaerschot.github.io/FN/categories/basics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Backgrounds</title>
+      <link>https://liesbethvanaerschot.github.io/FN/basics/Backgrounds/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/basics/Backgrounds/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;div class=&#34;background--blue text--center&#34; style=&#34;height: 20rem; padding: 4rem 0&#34;&gt;
+        &lt;h2 class=&#34;text--white&#34;&gt;Blue background&lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;background--blue text--center opacity--50&#34; style=&#34;height: 20rem; padding: 4rem 0&#34;&gt;
+        &lt;h2 class=&#34;text--white&#34;&gt;Blue background - 50% opacity&lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div class=&#34;background--pink text--center&#34; style=&#34;height: 20rem; padding: 4rem 0&#34;&gt;
+        &lt;h2 class=&#34;text--white&#34;&gt;Pink background&lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div class=&#34;background--grey text--center&#34; style=&#34;height: 20rem; padding: 4rem 0&#34;&gt;
+        &lt;h2&gt;Grey background&lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div class=&#34;background--gradient text--center&#34; style=&#34;height: 20rem; padding: 4rem 0&#34;&gt;
+        &lt;h2 class=&#34;text--white&#34;&gt;Gradient background&lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;background--gradient-90 text--center&#34; style=&#34;height: 20rem; padding: 4rem 0&#34;&gt;
+        &lt;h2&gt;Gradient background&lt;/h2&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Colors</title>
+      <link>https://liesbethvanaerschot.github.io/FN/basics/basic_colors/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/basics/basic_colors/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #000&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$black : #000&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #fff; border: 1px solid #201d1e&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$pink : #fff&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #201d1e&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$text-color : #201d1e&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #a21d4a&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$pink : #a21d4a&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #cd255e&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$pink--lighter : #cd255e&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #e3648f&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$pink--light : #e3648f&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #006c8b&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$blue : #006c8b&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #3289a2&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$blue--lighter : #3289a2&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #42a8c5&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$blue--light : #42a8c5&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #bef0ff&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$blue--lightest : #bef0ff&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;br&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #f7f7f4&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$grey : #f7f7f4&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #e5e5e5&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$grey--darker : #e5e5e5&lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;styleguide-color__template&#34;&gt;
+        &lt;i class=&#34;styleguide-color&#34; style=&#34;background-color: #6b6b4e&#34;&gt;&lt;/i&gt;
+        &lt;code class=&#34;styleguide-code&#34;&gt;$grey--darkest : #6b6b4e&lt;/code&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fonts</title>
+      <link>https://liesbethvanaerschot.github.io/FN/basics/basic_fonts/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://liesbethvanaerschot.github.io/FN/basics/basic_fonts/</guid>
+      <description>&lt;div class=&#34;snippet-section__content__html&#34;&gt;
+    &lt;h4 class=&#34;pink&#34;&gt;Primary font&lt;/h4&gt;
+    &lt;p class=&#34;primary-font&#34;&gt;
+        Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+    &lt;/p&gt;
+    &lt;h4 class=&#34;pink&#34;&gt;Primary font light&lt;/h4&gt;
+    &lt;p class=&#34;primary-font--light&#34;&gt;
+        Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+    &lt;/p&gt;
+    &lt;h4 class=&#34;pink&#34;&gt;Primary font bold&lt;/h4&gt;
+    &lt;p class=&#34;primary-font--bold&#34;&gt;
+        Veiligheid is de absolute prioriteit van de nucleaire sector. Kerncentrales, onderzoeksreactoren, laboratoria voor nucleaire geneeskunde en andere nucleaire installaties behoren tot de meest beveiligde en best gecontroleerde industriële installaties.
+    &lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
